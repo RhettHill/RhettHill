@@ -1,9 +1,12 @@
 👋## Hi there! 👋  
 I'm Rhett, a software engineering student passionate about full-stack and backend development.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rhett-hill/)  
+📫 How to reach me: 
+  -[LinkedIn](https://www.linkedin.com/in/rhett-hill/)  
+  -[Email](Rhetthill3@gmail.com)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RhettHill&show_icons=true&theme=dark)
+Below are some of the projects i've worked on.
+
 
 
 
