@@ -1,4 +1,12 @@
-## Hi there 👋
+👋## Hi there! 👋  
+I'm Rhett, a software engineering student passionate about full-stack and backend development.
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rhett-hill/)  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RhettHill&show_icons=true&theme=dark)
+
+
+
 
 <!--
 **RhettHill/RhettHill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
