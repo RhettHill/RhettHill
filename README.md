@@ -1,4 +1,4 @@
-👋## Hi there! 👋  
+![Hello!](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 I'm Rhett, a software engineering student passionate about full-stack and backend development.
 
 📫 How to reach me: 
