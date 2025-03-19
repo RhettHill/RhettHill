@@ -4,6 +4,7 @@ I'm Rhett, a software engineering student passionate about full-stack and backen
 📫 How to reach me:
 
 -LinkedIn: (https://www.linkedin.com/in/rhett-hill/)
+
 -Email: (Rhetthill3@gmail.com)
 
 Below are some of the projects i've worked on.
